@@ -112,7 +112,7 @@ Based on the analysis, several areas could be investigated further:
 
 The final Excel dashboard combines the main findings from the analysis.
 
-![Superstore Sales Dashboard](Dashboard1.png,Dashboard2.png)
+![Dashboard1 and Dashboard2](Dashboard1.png,Dashboard2.png)
 
 
 
